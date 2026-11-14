@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "agentia": {
+      "command": "cmd.exe",
+      "args": ["/c", "agentia", "mcp", "start"]
+    }
+  }
+}
